@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Luis Miguel Pérez Martín</h1>
 <h3 align="center">Machine learning Engineer | Computer Vision</h3>
 
