@@ -1,19 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23067
-Fork on GitHub
-7760
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Luis Miguel Pérez Martín</h1>
 <h3 align="center">Machine learning Engineer | Computer Vision</h3>
 
