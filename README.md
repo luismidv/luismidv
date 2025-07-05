@@ -3,7 +3,8 @@ While finishing my bachelor I started going deeper on machine learning. <br>Main
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-p%C3%A9rez-mart%C3%ADn-b6b444319/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/](https://www.instagram.com/luismigdv/?hl=en)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-p%C3%A9rez-mart%C3%ADn-b6b444319/)
 
 
 # 💻 Tech Stack:
