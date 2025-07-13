@@ -1,5 +1,5 @@
 # 💫 About Me:
-While finishing my bachelor I started going deeper on machine learning. <br>Mainly interested in working on computer vision tasks, RL and DRL.
+While finishing my bachelor I started going deeper on machine learning. <br> Implementing some traditional ML systems and Deep Learning models to improve my skills.
 
 
 ## 🌐 Socials:
